@@ -1,2 +1,2 @@
 # ASDKTestApp
-Scratch app for testing ASDK features.
+Scratch pad for testing ASDK features.
